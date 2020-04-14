@@ -1,0 +1,21 @@
+[
+    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://thunderbird-index.azurewebsites.net/w0a6zk195e.json" }, 
+    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://thunderbird-index.azurewebsites.net/w0a6zk195f.json" }, 
+    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://thunderbird-index.azurewebsites.net/no-last-name.json" }, 
+    { "Name":"Aiden Fifer", "Email":"aidenjfifer@lewisu.edu", "ContactURL":"https://testforclass.azurewebsites.net/aboutMe.json" }, 
+    { "Name":"Aiden Fifer", "Email":"aidenjfifer@lewisu.edu", "ContactURL":"https://testforclass.azurewebsites.net/michaelScott.json" }, 
+    { "Name":"Christopher Gamboa", "Email":"christopherogamboa@lewisu.edu", "ContactURL":"https://cog1.azurewebsites.net/me1.json" }, 
+    { "Name":"Declan Heneghan", "Email":"declanhheneghan@lewisu.edu", "ContactURL":"https://my-information-dh.azurewebsites.net/my-info.json" }, 
+    { "Name":"Fidel Herrera", "Email":"fidelherrera@lewisu.edu", "ContactURL":"https://web-site-fh.azurewebsites.net/fidelherrera.JSON" }, 
+    { "Name":"Frank Martinez", "Email":"Frankjmartinez@lewisu.edu", "ContactURL":"https://web-relaxing.azurewebsites.net/Frank.json" }, 
+    { "Name":"Henry Palmer", "Email":"henryrpalmer@lewisu.edu", "ContactURL":"https://web-site-hrp-azure.azurewebsites.net/henry-info.json" }, 
+    { "Name":"Kai Corpuz", "Email":"kaiscorpuz@lewisu.edu", "ContactURL":"https://web-site-ksc-azure.azurewebsites.net/ksc-json-test-one.json"}, 
+    { "Name":"Kai Corpuz", "Email":"kaiscorpuz@lewisu.edu", "ContactURL":"https://web-site-ksc-azure.azurewebsites.net/AnakinSkywalkerInfo.json"}, 
+    { "Name":"Luis Barrera", "Email":"luisbarrera@lewisu.edu", "ContactURL":"https://luis-web-app.azurewebsites.net/self-introduction.json" }, 
+    { "Name":"Luis Barrera", "Email":"luisbarrera@lewisu.edu", "ContactURL":"https://luis-web-app.azurewebsites.net/ness-info.json" }, 
+    { "Name":"Luis Barrera", "Email":"luisbarrera@lewisu.edu", "ContactURL":"https://luis-web-app.azurewebsites.net/kirby-info.json" }, 
+    { "Name":"Mauricio Ortiz", "Email":"mauriciorortizvel@lewisu.edu", "ContactURL":"https://websitemo-azure.azurewebsites.net/myInfoSimple.json" }, 
+    { "Name":"Zachary Offerman", "Email":"zacharymofferman@lewisu.edu", "ContactURL":"https://hello-world-zo.azurewebsites.net/aboutMe.json"},
+    { "Name":"Zachary Offerman", "Email":"zacharymofferman@lewisu.edu", "ContactURL":"https://hello-world-zo.azurewebsites.net/don.json"}, 
+    { "Name":"Eric Pogue", "Email":"epogue@lewisu.edu", "ContactURL":"https://thunderbird-index.azurewebsites.net/too-short-a-last-name.json" } 
+]
